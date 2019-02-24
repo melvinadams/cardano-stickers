@@ -1,4 +1,8 @@
-Official Telegram Groups
+# Official Telegram Groups
+
+## Emurgo
+EmurgoJP https://t.me/emurgo <br>
+EmurgoHK https://t.me/emurgohk <br>
 
 ## English
 Cardano General https://t.me/CardanoGeneral <br>
