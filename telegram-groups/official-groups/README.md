@@ -1,18 +1,18 @@
 Official Telegram Groups
 
 ## English
-Cardano General @CardanoGeneral <br>
-Cardano Trading @CardanoTradingOfficial <br>
-Cardano Announcements @CardanoAnnouncements <br>
-Cardano Tech Support @CardanoCommunityTechSupport <br>
-Cardano Developers @CardanoDevelopersOfficial <br>
+Cardano General t.me/CardanoGeneral <br>
+Cardano Trading t.me/CardanoTradingOfficial <br>
+Cardano Announcements t.me/CardanoAnnouncements <br>
+Cardano Tech Support t.me/CardanoCommunityTechSupport <br>
+Cardano Developers t.me/CardanoDevelopersOfficial <br>
 
 ## Japanese
-Cardano Japan @CardanoJapanOfficial <br>
-Cardano Japan Trading @CardanoJapanTrading <br>
+Cardano Japan t.me/CardanoJapanOfficial <br>
+Cardano Japan Trading t.me/CardanoJapanTrading <br>
 
 ## Chinese
-Cardano China @CardanoChinaOfficial <br>
+Cardano China t.me/CardanoChinaOfficial <br>
 
 ## Korean
-Cardano Korea @CardanoKoreaOfficial <br>
+Cardano Korea t.me/CardanoKoreaOfficial <br>
