@@ -6,3 +6,4 @@ Add it to your stickers here: https://t.me/addstickers/cardanotradingstickers <b
 Use these pics however you please! <br>
 <br>
 Do you have any suggestions? Contact me here: https://t.me/cryptoshibe <br>
+RedHoskRedemption.png courtesy of https://t.me/shonz
