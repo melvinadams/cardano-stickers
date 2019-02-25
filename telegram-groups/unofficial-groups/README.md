@@ -7,8 +7,8 @@ Telegram STAKE - Stake Pools https://t.me/CardanoStakePools <br>
 Telegram SG - Singapore https://t.me/CardanoSG <br>
 Telegram AU - Australia https://t.me/CardanoAustralia <br>
 Telegram US - America https://t.me/CardanoAmerica <br>
-(WIP) - Cardano is Coming https://t.me/CardanoIsComing <br>
-(WIP) - Gerolamo Community https://t.me/GerolamoCommunity <br>
+Telegram CIC - Cardano is Coming https://t.me/CardanoIsComing <br>
+Telegram GC - Gerolamo Community https://t.me/GerolamoCommunity <br>
 
 ## Spanish
 Telegram ES - Español https://t.me/CardanoEsp <br>
