@@ -1,1 +1,1 @@
-Telegram Groups' stickers.
+Cardano telegram groups' stickers.
